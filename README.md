@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/cheemalamahesh/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cheemalamahesh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/cheemalamahesh/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheemalamahesh/DSA/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/cheemalamahesh/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
