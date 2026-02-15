@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/cheemalamahesh/DSA/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheemalamahesh/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/cheemalamahesh/DSA/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cheemalamahesh/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
