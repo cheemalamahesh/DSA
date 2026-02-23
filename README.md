@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheemalamahesh/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
