@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/cheemalamahesh/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/cheemalamahesh/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cheemalamahesh/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/cheemalamahesh/DSA/tree/master/3379-transformed-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Tree
 |  |
 | ------- |
