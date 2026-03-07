@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/cheemalamahesh/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/cheemalamahesh/DSA/tree/master/0069-sqrtx) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
