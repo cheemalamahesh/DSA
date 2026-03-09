@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cheemalamahesh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/cheemalamahesh/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/cheemalamahesh/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cheemalamahesh/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/cheemalamahesh/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cheemalamahesh/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 | [0541-reverse-string-ii](https://github.com/cheemalamahesh/DSA/tree/master/0541-reverse-string-ii) |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/cheemalamahesh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/cheemalamahesh/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -141,9 +145,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cheemalamahesh/DSA/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
