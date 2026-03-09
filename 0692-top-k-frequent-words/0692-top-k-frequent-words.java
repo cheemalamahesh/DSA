@@ -12,7 +12,7 @@ class Solution {
         for(Map.Entry<String,Integer> entry : map.entrySet()){
             int key =entry.getValue();
             String val=entry.getKey();
-            if(!t.containsKey(key)){
+            if(!t.containsKey(key)){    //if words have same freq so we use list<string>
                 t.put(key,new ArrayList<>());
             }
             t.get(key).add(val);
@@ -20,9 +20,9 @@ class Solution {
         ArrayList<String> l =new ArrayList<>();
         for(Map.Entry<Integer,List<String>> entry : t.entrySet()){
            List<String> w=entry.getValue();
-           Collections.sort(w);
+           Collections.sort(w);    // soert in lexicographical order
            for(String i : w){
-                if(l.size()<k){
+                if(l.size()<k){  //checking size list to maintain the k most words 
                     l.add(i);
                 }else{
                     break;
