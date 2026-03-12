@@ -1,7 +1,7 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
         int n=nums.length;
-        HashSet<Integer>set =new HashSet<>();
+       // HashSet<Integer>set =new HashSet<>();
         int idx=1;
         for(int i=1;i<n;i++){
             if(nums[i]!=nums[i-1]){
