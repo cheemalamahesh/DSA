@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cheemalamahesh/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/cheemalamahesh/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cheemalamahesh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/cheemalamahesh/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/cheemalamahesh/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/cheemalamahesh/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cheemalamahesh/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/cheemalamahesh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
