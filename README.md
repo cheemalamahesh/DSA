@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheemalamahesh/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/cheemalamahesh/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/cheemalamahesh/DSA/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/cheemalamahesh/DSA/tree/master/0541-reverse-string-ii) |
