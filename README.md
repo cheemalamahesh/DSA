@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/cheemalamahesh/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/cheemalamahesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/cheemalamahesh/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/cheemalamahesh/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cheemalamahesh/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/cheemalamahesh/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/cheemalamahesh/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/cheemalamahesh/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -191,15 +195,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cheemalamahesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -217,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cheemalamahesh/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
