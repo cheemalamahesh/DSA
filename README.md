@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/cheemalamahesh/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/cheemalamahesh/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/cheemalamahesh/DSA/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/cheemalamahesh/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/cheemalamahesh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/cheemalamahesh/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/cheemalamahesh/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/cheemalamahesh/DSA/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/cheemalamahesh/DSA/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/cheemalamahesh/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/cheemalamahesh/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/cheemalamahesh/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cheemalamahesh/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/cheemalamahesh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/cheemalamahesh/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cheemalamahesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
