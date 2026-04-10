@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/cheemalamahesh/DSA/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/cheemalamahesh/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3637-trionic-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cheemalamahesh/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/cheemalamahesh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
