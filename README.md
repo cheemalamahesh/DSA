@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/cheemalamahesh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/cheemalamahesh/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cheemalamahesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Tree
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/cheemalamahesh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/cheemalamahesh/DSA/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cheemalamahesh/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 ## Quickselect
 |  |
 | ------- |
@@ -328,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
