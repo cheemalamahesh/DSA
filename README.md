@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cheemalamahesh/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Quickselect
 |  |
 | ------- |
@@ -333,4 +335,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
