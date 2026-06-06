@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/cheemalamahesh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/cheemalamahesh/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/cheemalamahesh/DSA/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/cheemalamahesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/cheemalamahesh/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cheemalamahesh/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/cheemalamahesh/DSA/tree/master/3379-transformed-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/cheemalamahesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/cheemalamahesh/DSA/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/cheemalamahesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Breadth-First Search
 |  |
 | ------- |
