@@ -1,19 +1,19 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-        List<Integer> l1=new ArrayList<>();
-        List<Integer> l2=new ArrayList<>();
-        List<Integer> l3=new ArrayList<>();
-        for(int i : nums){
-            if(i<pivot) l1.add(i);
-            else if(i>pivot) l2.add(i);
-            else if(i==pivot) l3.add(i);
+        int n=nums.length;
+        int i=0;
+        int j=n-1;
+        int l=0;
+        int r=n-1;
+        int[] res=new int[n];
+        while(i<n && j>=0){
+            if(nums[i]<pivot) res[l++]=nums[i];
+            if(nums[j]>pivot) res[r--]=nums[j];
+            i++;
+            j--;
         }
-        int[] b=new int[nums.length];
-        int idx=0;
-        for(int i : l1) b[idx++]=i;
-        for(int i : l3) b[idx++]=i;
-        for(int i : l2) b[idx++]=i;
-      return b;
-
+        for(int x=l ;x<=r;x++) res[x]=pivot;
+        return res;
+        
     }
 }
