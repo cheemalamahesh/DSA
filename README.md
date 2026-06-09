@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/cheemalamahesh/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/cheemalamahesh/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3637-trionic-array-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/cheemalamahesh/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/cheemalamahesh/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/cheemalamahesh/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/cheemalamahesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/cheemalamahesh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/cheemalamahesh/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/cheemalamahesh/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
