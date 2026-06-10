@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/cheemalamahesh/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/cheemalamahesh/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3945-digit-frequency-score](https://github.com/cheemalamahesh/DSA/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/cheemalamahesh/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/cheemalamahesh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/cheemalamahesh/DSA/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
