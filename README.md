@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/cheemalamahesh/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/cheemalamahesh/DSA/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/cheemalamahesh/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/cheemalamahesh/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/cheemalamahesh/DSA/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/cheemalamahesh/DSA/tree/master/0692-top-k-frequent-words) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/cheemalamahesh/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
