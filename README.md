@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheemalamahesh/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/cheemalamahesh/DSA/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/cheemalamahesh/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/cheemalamahesh/DSA/tree/master/0189-rotate-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/cheemalamahesh/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/cheemalamahesh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/cheemalamahesh/DSA/tree/master/3945-digit-frequency-score) |
