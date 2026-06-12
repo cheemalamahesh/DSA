@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/cheemalamahesh/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/cheemalamahesh/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/cheemalamahesh/DSA/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/cheemalamahesh/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/cheemalamahesh/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/cheemalamahesh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/cheemalamahesh/DSA/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
