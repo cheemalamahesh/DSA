@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/cheemalamahesh/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/cheemalamahesh/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/cheemalamahesh/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/cheemalamahesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/cheemalamahesh/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/cheemalamahesh/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/cheemalamahesh/DSA/tree/master/2833-furthest-point-from-origin) |
+| [3884-first-matching-character-from-both-ends](https://github.com/cheemalamahesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/cheemalamahesh/DSA/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
