@@ -8,7 +8,7 @@ class Solution {
         }
         for(int i=1;i<n;i++){
             long prev=0;
-            if(i%2==0){
+            if(i%2==1){
                 for(int j=0;j<=r;j++){
                     dp[i][j]=prev;
                     prev=(prev+dp[i-1][j])%m;
