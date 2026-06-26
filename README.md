@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/cheemalamahesh/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/cheemalamahesh/DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/cheemalamahesh/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/cheemalamahesh/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/cheemalamahesh/DSA/tree/master/3945-digit-frequency-score) |
 ## String
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/cheemalamahesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cheemalamahesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Queue
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/cheemalamahesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/cheemalamahesh/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -389,8 +393,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
