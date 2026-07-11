@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/cheemalamahesh/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/cheemalamahesh/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Quickselect
 |  |
 | ------- |
@@ -389,10 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cheemalamahesh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/cheemalamahesh/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/cheemalamahesh/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
 | ------- |
