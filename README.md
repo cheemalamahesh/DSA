@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/cheemalamahesh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/cheemalamahesh/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/cheemalamahesh/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/cheemalamahesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/cheemalamahesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/cheemalamahesh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/cheemalamahesh/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/cheemalamahesh/DSA/tree/master/0202-happy-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cheemalamahesh/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/cheemalamahesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/cheemalamahesh/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/cheemalamahesh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/cheemalamahesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
