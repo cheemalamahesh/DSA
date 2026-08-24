@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/cheemalamahesh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/cheemalamahesh/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/cheemalamahesh/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/cheemalamahesh/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cheemalamahesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/cheemalamahesh/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/cheemalamahesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/cheemalamahesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/cheemalamahesh/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/cheemalamahesh/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/cheemalamahesh/DSA/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/cheemalamahesh/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/cheemalamahesh/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/cheemalamahesh/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/cheemalamahesh/DSA/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cheemalamahesh/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/cheemalamahesh/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/cheemalamahesh/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cheemalamahesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/cheemalamahesh/DSA/tree/master/2029-stone-game-ix) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/cheemalamahesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/cheemalamahesh/DSA/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/cheemalamahesh/DSA/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/cheemalamahesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/cheemalamahesh/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -459,12 +463,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/cheemalamahesh/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/cheemalamahesh/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/cheemalamahesh/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/cheemalamahesh/DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/cheemalamahesh/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/cheemalamahesh/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/cheemalamahesh/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/cheemalamahesh/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/cheemalamahesh/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -472,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/cheemalamahesh/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/cheemalamahesh/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/cheemalamahesh/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/cheemalamahesh/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
