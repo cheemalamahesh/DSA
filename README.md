@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/cheemalamahesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3379-transformed-array](https://github.com/cheemalamahesh/DSA/tree/master/3379-transformed-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cheemalamahesh/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cheemalamahesh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/cheemalamahesh/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/cheemalamahesh/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3637-trionic-array-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/cheemalamahesh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cheemalamahesh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/cheemalamahesh/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cheemalamahesh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/cheemalamahesh/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cheemalamahesh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cheemalamahesh/DSA/tree/master/0695-max-area-of-island) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/cheemalamahesh/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/cheemalamahesh/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cheemalamahesh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
