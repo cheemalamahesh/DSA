@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/cheemalamahesh/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cheemalamahesh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/cheemalamahesh/DSA/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/cheemalamahesh/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cheemalamahesh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cheemalamahesh/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/cheemalamahesh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/cheemalamahesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cheemalamahesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/cheemalamahesh/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/cheemalamahesh/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/cheemalamahesh/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/cheemalamahesh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cheemalamahesh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
